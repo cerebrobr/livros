@@ -5,6 +5,7 @@
 ### [Javacript](https://github.com/cerebrobr/livros/tree/master/JavaScript/)
 - [Eloquent JavaScript - 2ª Edição](http://eloquentjavascript.com.br/)
 
+<<<<<<< HEAD
 #### [jQuery](https://github.com/cerebrobr/livros/tree/master/JavaScript/Jquery)
 - [Fundamentos de jQuery](https://github.com/cerebrobr/livros/blob/master/JavaScript/Jquery/jquery-fundamentals-book-pt-BR.pdf)
 
@@ -27,3 +28,8 @@
 
 
 
+=======
+## Como contribuir
+
+Siga as instruções de como contribuir [deste link](https://github.com/cerebrobr/cerebro/blob/master/CONTRIBUTING.md).
+>>>>>>> refs/remotes/cerebrobr/master
