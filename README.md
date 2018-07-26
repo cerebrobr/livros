@@ -3,7 +3,7 @@
 ## Relação de livros em PT-BR
 
 ### [Javacript](https://github.com/cerebrobr/livros/tree/master/JavaScript/)
-- [Eloquent JavaScript - 2ª Edição](http://eloquentjavascript.com.br/)
+- [Eloquent JavaScript - 2ª Edição](http://braziljs.github.io/eloquente-javascript/)
 
 #### [jQuery](https://github.com/cerebrobr/livros/tree/master/JavaScript/Jquery)
 - [Fundamentos de jQuery](https://github.com/cerebrobr/livros/blob/master/JavaScript/Jquery/jquery-fundamentals-book-pt-BR.pdf)
