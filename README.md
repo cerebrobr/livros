@@ -25,6 +25,9 @@
 ### [Web](https://github.com/cerebrobr/livros/tree/master/Web)
 - [Caelum HTML, CSS, Javascript, PHP](https://github.com/cerebrobr/livros/tree/master/Web)
 
+### Haskell
+- [Aprender Haskell será um grande bem pra você!](http://haskell.tailorfontela.com.br/chapters)
+
 ## Como contribuir
 
 Siga as instruções de como contribuir [deste link](https://github.com/cerebrobr/cerebro/blob/master/CONTRIBUTING.md).
